@@ -1,6 +1,6 @@
 ﻿# IoT-Projects
 
-<h1 align="center">Hi 👋, i've curated all the IoT related files from installation to execution, hope this will help learning.
+<h1 align="center">Hi 👋, i've curated all the IoT related files from installation to execution, hope this will help you learning.
 download it from here</h1>
 <h3 align="center">https://teraboxapp.com/s/12Ju-bqrykECN6Hj8xOrlNw</h3>
 <br>
